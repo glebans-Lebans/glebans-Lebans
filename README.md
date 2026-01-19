@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+## Grant Lebans is an artist and student currently based out of Phoenix, Arizona. 
+### He has an Associate of Arts in Fine Arts at Scottsdale Community College/Chandler-Gilbert Community College and is working towards a Bachelor of Arts in Media Arts and Sciences (Graphic Information Technology) at Arizona State University. 
+#### His work spans multiple mediums including physical media, such as charcoal and colored pencil on paper, and digital media, such as photography and 3D modeling. Lebans has experience with the Adobe Creative Cloud apps Photoshop, Lightroom, Illustrator, Audition, and Premiere Pro, and with the 3D modeling software Autodesk Fusion. He is continuing to develop his fluency with these apps to benefit his career as an artist. In the interest of expanding his work into new media, Lebans is also learning how to program using HTML, CSS, JavaScript, and Max 9. Lebans hopes to utilize his talents in a creative profession as a Graphic Designer or Videogame Artist. When he is not making art, Lebans enjoys playing videogames and listening to music and podcasts.
+[My Art Portfolio](https://grantlebans.wixsite.com/website)
 
 <!--
 **glebans-Lebans/glebans-Lebans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
